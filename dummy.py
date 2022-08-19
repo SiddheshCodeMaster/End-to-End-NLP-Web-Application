@@ -1,7 +1,7 @@
 import requests
 
 API_URL = "https://api-inference.huggingface.co/models/sshleifer/distilbart-cnn-12-6"
-headers = {"Authorization": f"Bearer {API_TOKEN}"}
+headers = {"Authorization": f"Bearer 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"}
 
 def query(payload):
 	response = requests.post(API_URL, headers=headers, json=payload)
