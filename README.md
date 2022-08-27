@@ -12,3 +12,4 @@ I am going to apply **Hugging Face**.
 
 Hugging Face: Build, train and deploy state of the art models powered by thr reference open-source in natural language processing.
 
+  Heroku Application Link: https://textsummarizationmyway.herokuapp.com/
