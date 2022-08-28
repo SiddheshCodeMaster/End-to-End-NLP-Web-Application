@@ -5,7 +5,7 @@ Here I am creating another NLP project which is going to be an end to end projec
 I am going to perform Text Summarization.
 
 They are two types of Data Summarization:
-- **Extractiv** (Easy to achieve, Less CPU Consumption, NLTK Library)
+- **Extractive** (Easy to achieve, Less CPU Consumption, NLTK Library)
 - **Abstractive** (Difficult to achieve, More CPU Consumption, Transformers & Pipelines)
 
 I am going to apply **Hugging Face**. 
